@@ -1,3 +1,2 @@
 # Password Generator
-Complete edit and instruction coming soon
-
+Complete edit and instructions coming soon
