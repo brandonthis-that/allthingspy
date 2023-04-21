@@ -15,7 +15,9 @@ python generate_password.py
 ```
 
 `myenv` should be replaced with the actual name of your virtual environment. My Python file was named `generate_password.py` but you can name yours as you wish.
+
 3. Save and close the file.
+
 4. Run the following code to make the file executable:
 ```bash
 chmod +x run.sh
