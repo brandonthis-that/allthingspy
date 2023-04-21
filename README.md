@@ -1,6 +1,6 @@
 This is a simple project using Python to generate **secure** passwords using the users specifications.
 
-To run on a virtual environmentby default, the following procedure can be followed:
+To run on a virtual environment by default, the following procedure can be followed:
 1. Create a file and name it `run.sh` 
 2. Edit the file as follows:
  ```bash
